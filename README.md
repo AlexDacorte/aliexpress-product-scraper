@@ -32,7 +32,7 @@ Installation
 
 Clone the repository:  
 
-git clone https://github.com/your-username/aliexpress-product-scraper.git 
+git clone https://github.com/AlexDacorte/aliexpress-product-scraper.git 
 
 cd aliexpress-product-scraper 
 
